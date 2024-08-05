@@ -1,0 +1,29 @@
+/* Vendor */
+@import "../vendor/swiper-bundle/swiper.css";
+@import "../vendor/swiper-bundle/modules/navigation.css";
+@import "normalize.scss";
+@import "swiper.scss";
+
+/* GLOBAL */
+@import "./common/mixin.scss";
+@import "./common/fonts.scss";
+@import "./common/variables.scss";
+@import "./common/global.scss";
+@import "./common/visually-hidden.scss";
+
+/* BLOCKS */
+@import "./blocks/page-body.scss";
+@import "./blocks/button.scss";
+@import "./blocks/page-main.scss";
+@import "./blocks/main-wrapper.scss";
+@import "./blocks/hero.scss";
+@import "./blocks/about-us.scss";
+@import "./blocks/abonements.scss";
+@import "./blocks/super-games.scss";
+@import "./blocks/juri.scss";
+@import "./blocks/benefits.scss";
+@import "./blocks/offers.scss";
+@import "./blocks/faq.scss";
+@import "./blocks/reviews.scss";
+@import "./blocks/form.scss";
+@import "./blocks/page-footer.scss";
